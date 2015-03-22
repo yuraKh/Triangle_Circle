@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: bad9ad47b6abc954a86502bdc3ac05c1
+timeCreated: 1427034204
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Circle1: {fileID: 193878, guid: d9a012c02b300264291f2df6c5cf0dfa, type: 2}
+  - Circle2: {instanceID: 0}
+  - Circle3: {instanceID: 0}
+  - Circle4: {instanceID: 0}
+  - Circle5: {instanceID: 0}
+  - Square1: {instanceID: 0}
+  - Square2: {instanceID: 0}
+  - Square3: {instanceID: 0}
+  - Square4: {instanceID: 0}
+  - Square5: {instanceID: 0}
+  - Triangle1: {instanceID: 0}
+  - Triangle2: {instanceID: 0}
+  - Triangle3: {instanceID: 0}
+  - Triangle4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
